@@ -1,7 +1,8 @@
-# Bitflu in Docker
+![](http://bitflu.workaround.ch/bitflu.png)
+## Now with more Docker
 Uses the latest Perl image.
 
-## Example
+### Example
 ``` Beef
 docker run -it --rm \
   --name bitflu \
