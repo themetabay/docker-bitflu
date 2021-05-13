@@ -4,7 +4,7 @@ Uses the latest Perl image.
 
 ### Example
 ``` Beef
-docker run -it --rm \
+docker run -it \
   --name bitflu \
   --restart unless-stopped \
   -p 4081:4081 \
