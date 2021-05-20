@@ -1,5 +1,5 @@
 ![](http://bitflu.workaround.ch/bitflu.png)
-## Now with more Docker
+## This is beta quality! Feel free to submit an issue if you want a new feature or find a bug :)
 Uses the latest Perl image.
 
 ### Example
