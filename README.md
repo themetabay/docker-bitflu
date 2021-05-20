@@ -1,5 +1,5 @@
 ![](http://bitflu.workaround.ch/bitflu.png)
-## This is beta quality! Feel free to submit an issue if you want a new feature or find a bug :)
+
 Uses the latest Perl image.
 
 ### Example
@@ -13,3 +13,4 @@ docker run -it \
   -v bitflu-workdir:/bitflu/workdir \
   themetabay/bitflu
 ```
+#### This is beta quality! Feel free to submit an issue if you want a new feature or find a bug :)
